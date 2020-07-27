@@ -3,3 +3,6 @@
 <img align="right" height="100px" src="https://i.pinimg.com/originals/59/5b/aa/595baa61fba278ebfeac05d38f1d0d71.gif">
 
 <h1 align="center">Magicoder ✨</h1>
+
+<h3 align="center">Think, code and make magic</h3>
+<h3 align="center">🤔 -> 👨‍💻 -> 💫</h3>
