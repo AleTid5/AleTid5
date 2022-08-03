@@ -1,16 +1,16 @@
 <h1 align="center">λlξζαηdΓθ</h1>
 
 
-<img align="left" height="100px" src="https://opengameart.org/sites/default/files/Torch_Gif.gif"/>
-<img align="right" height="100px" src="https://opengameart.org/sites/default/files/Torch_Gif.gif"/>
+<img align="left" height="300px" src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-2.gif"/>
+<img align="right" height="300px" src="https://acegif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-4.gif"/>
 
 
 <h3 align="center">
-  <div>Hey! Nice to see you in my profile 😄</div>
+  <div>Hey! Nice to see you here 😄</div>
 </h3>
 
-<div align="center">As you can see, I have many projects where I've been working on. I love to experiment with new technologies and keep learning all the time.</div>
-<div align="center">I've started my programming career in 2014, and since then I haven't stopped! 🚀</div>
+<div align="center">I love to experiment with new technologies 🪄</div>
+<div align="center">8+ years of experience 💻🤓 1️⃣0️⃣0️⃣1️⃣1️⃣0️⃣1️⃣0️⃣</div>
 
 <h2>Currently...</h2>
 <div>...I'm working at <a href="https://github.com/Glovo" target="_blank" rel="noreferrer noopener">@glovo</a> as <b>Senior Software Engineer</b> in the Barcelona Tech Hub!</div>
