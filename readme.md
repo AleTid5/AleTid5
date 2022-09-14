@@ -28,6 +28,7 @@
   <div>&nbsp;</div>
   <div>&nbsp;</div>
   <div>&nbsp;</div>
+  
 
   <h1 />
 
@@ -46,3 +47,8 @@
      </a>
   </div>
 </section>
+<div align="center">
+  
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AleTid5&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&custom_title=Alejandro%20Tidele%27s%20Stats%20%F0%9F%9A%80)
+
+</div>
